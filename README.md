@@ -11,7 +11,13 @@ Our program asks the user for their name and their major, then prints out a mess
 3) Program prints out "(name) is a (major) major"
 
 Installation:
+To intall jupyter:
+within your terminal
+with conda: conda install -c conda-forge jupyterlab
+with mamba: mamba install -c conda-forge jupyterlab
+with pip: pip install jupyterlab
 
+Once jupyter is installed, move the code.ipynb program into jupyter where it can be ran. This software is licensed wit the MIT License.
 
 How to collaborate:
 Thanks for helping out with our code!
