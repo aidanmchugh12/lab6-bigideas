@@ -16,10 +16,14 @@ Installation:
 How to collaborate:
 Thanks for helping out with our code!
 1) Log in to JupyterHub and start terminal.
-2) Type in git clone https://github.com/aidanmchugh12/lab6-bigideas.git
-3) Make any changes as needed
-3) Use the following commands (within the file)
+2) Read the Code of Conduct
+3) Type in git clone https://github.com/aidanmchugh12/lab6-bigideas.git
+4) Make any changes as needed
+5) Use the following commands (within the file)
     - git add <filename> if added new file
     - git commit -m"message" to commit
-    - git push origin main to add those changes to the repository
-    - git pull orgin main to pull any new changes
+    - git push to add those changes to the repository
+    
+License and Code of Conduct:
+-We chose the MIT License due to it being very accessible and simple
+-We used the Contributer Covenent code of conduct because it represents our values and goes into good detail.
